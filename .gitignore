@@ -37,3 +37,4 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+app/data/RewardSphere_1M_Customers.csv
