@@ -1,5 +1,6 @@
 
 # Environment variables and secrets
+app/data/RewardSphere_1M_Customers.csv
 .env
 .env.*
 !.env.example
